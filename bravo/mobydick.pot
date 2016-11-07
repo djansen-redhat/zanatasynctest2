@@ -1,0 +1,69 @@
+# 
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: English (United Kingdom)\n"
+"Language: en-GB\n"
+"X-Generator: Zanata 3.8.0-SNAPSHOT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "b6418bb8623a2d828c1656c73df64ee4"
+msgid "This eBook is for the use of anyone anywhere at no cost and with"
+msgstr ""
+
+msgctxt "82bff6ee533a726f0cd3b71a30912670"
+msgid "almost no restrictions whatsoever.  You may copy it, give it away or"
+msgstr ""
+
+msgctxt "05d9888a3500a37b8fb388afdc82f3d0"
+msgid "re-use it under the terms of the Project Gutenberg License included"
+msgstr ""
+
+msgctxt "7e0fab57958bc7b8aa654bc3f450fc37"
+msgid "with this eBook or online at www.gutenberg.org"
+msgstr ""
+
+msgctxt "fbfe356cd4c8ec68e396e25261ec81e1"
+msgid "Title: Moby Dick; or The Whale"
+msgstr ""
+
+msgctxt "3fef027d0f9dec486d8b691ccc9b9d99"
+msgid "Author: Herman Melville"
+msgstr ""
+
+msgctxt "42e7d2eae482d837728c02e480b924a8"
+msgid "Last Updated: January 3, 2009"
+msgstr ""
+
+msgctxt "cb544d2ce4c7cf07f1fd48d3ec7cd844"
+msgid "Posting Date: December 25, 2008 [EBook #2701]"
+msgstr ""
+
+msgctxt "085720e4171164fe2daeab17bb646e2e"
+msgid "Release Date: June, 2001"
+msgstr ""
+
+msgctxt "b560bc8737ae270f3d1711d2621d40cc"
+msgid "Language: English"
+msgstr ""
+
+msgctxt "ee54084dfb50e83cd9cf30f5108e57ce"
+msgid "*** START OF THIS PROJECT GUTENBERG EBOOK MOBY DICK; OR THE WHALE ***"
+msgstr ""
+
+msgctxt "bcf2d71550368c3c2689a752c7d4d4df"
+msgid "Produced by Daniel Lazarus and Jonesey"
+msgstr ""
+
+msgctxt "593fd28aff34434b10bdde4d3727c586"
+msgid "MOBY DICK; OR THE WHALE"
+msgstr ""
+
+msgctxt "69779a5eadf1384a17ce655b34b10d9d"
+msgid "By Herman Melville"
+msgstr ""
+
